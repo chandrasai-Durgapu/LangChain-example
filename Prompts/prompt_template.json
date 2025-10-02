@@ -1,0 +1,6 @@
+{
+  "input_variables": ["topic", "audience"],
+  "template": "Explain the concept of {topic} in simple terms for a {audience}.",
+  "template_format": "f-string",
+  "validate_template": true
+}
