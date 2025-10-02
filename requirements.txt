@@ -24,3 +24,6 @@ numpy
 scikit-learn
 
 # streamlit # UI interface
+
+pydantic # data type validation and structured output
+pydantic[email]

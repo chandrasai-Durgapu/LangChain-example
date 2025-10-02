@@ -85,6 +85,32 @@ run the messages with place holder(save the previous chat history)
 python Prompts/message_placeholder.py
 ```
 
+run the structured output with typed dict
+```bash
+python Structured_Output/typed_dict.py
+```
+
+run the annotated typed dict with structured output
+```bash
+python Structured_Output/annotated_typedict.py
+```
+
+run the pydantic (pydantic====data validation)
+```bash
+python Structured_Output/pydantic_demo.py
+```
+
+run the pydantic with structured output
+```bash
+python Structured_Output/pydantic_structured_output.py
+```
+
+run pydantic with json schema
+```bash
+python Structured_Output/pydantic_json.py
+```
+
+
 
 
 
