@@ -118,5 +118,14 @@ run the str output parser with hugging face llm
 python Output_Parsers/str_output_parser.py
 ```
 
+run the structured output parser
+```bash
+python Output_Parsers/structured_output_parser.py
+```
+
+runt the pydantic output parser
+```bash
+python Output_Parsers/pydantic_output_parser.py
+```
 
 
