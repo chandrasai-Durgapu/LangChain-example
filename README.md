@@ -25,7 +25,7 @@ run the code
 ```bash
 python 1.LLMs/1_llm_demo.py
 ```
-
+---
 run the code
 ```bash
 python 2.ChatModels/1_chatmodel_groq.py
@@ -35,7 +35,7 @@ run the hugging face api model
 ```bash
 python 2.ChatModels/2_chatmodel_hf_api.py
 ```
-
+---
 run the hugging face embeddings query locally
 ```bash
 python 3.EmbeddedModels/1_embedding_huggingface.py
@@ -50,6 +50,7 @@ run the hugging face emdeggings and perform document cosine similarity
 ```bash
 python 3.EmbeddedModels/3_document_similarity.py
 ```
+---
 run the prompt
 ```bash
 python Prompts/prompt.py
@@ -84,6 +85,7 @@ run the messages with place holder(save the previous chat history)
 ```bash
 python Prompts/message_placeholder.py
 ```
+---
 
 run the structured output with typed dict
 ```bash
@@ -109,8 +111,12 @@ run pydantic with json schema
 ```bash
 python Structured_Output/pydantic_json.py
 ```
+---
 
-
+run the str output parser with hugging face llm
+```bash
+python Output_Parsers/str_output_parser.py
+```
 
 
 
