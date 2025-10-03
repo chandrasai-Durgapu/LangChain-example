@@ -1,5 +1,9 @@
 # LangChain-example
-LangChain-example
+# 🦜 LangChain Example
+
+This repository demonstrates how to use [LangChain](https://github.com/langchain-ai/langchain) with different models, prompt strategies, embeddings, and structured output handling. It provides modular examples for learning or building production-ready LLM apps.
+
+---
 
 ## Create virtual environment
 ```bash
