@@ -4,6 +4,29 @@
 This repository demonstrates how to use [LangChain](https://github.com/langchain-ai/langchain) with different models, prompt strategies, embeddings, and structured output handling. It provides modular examples for learning or building production-ready LLM apps.
 
 ---
+## 🧰 Tech Stack
+
+This project uses the following technologies and tools:
+
+- **Python 3.8+**  
+  Core programming language used for scripting and automation.
+
+- **LangChain**  
+  Framework for building applications powered by language models. Handles prompts, chains, memory, and more.
+
+- **OpenAI / GROQ / Hugging Face APIs**  
+  Supports multiple LLM providers for chat, completion, and embeddings.
+
+- **Pydantic & TypedDict**  
+  For defining and parsing structured outputs returned by LLMs.
+
+- **python-dotenv**  
+  Loads environment variables securely from a `.env` file.
+
+- **FAISS** *(optional)*  
+  A library for efficient similarity search and clustering of dense vectors (used in embedding examples).
+
+---
 
 ## Create virtual environment
 ```bash
